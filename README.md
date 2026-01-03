@@ -1,158 +1,265 @@
 <div align="center">
 
-# 👨‍💻 Ibrahim Ahmed Taalab
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Ibrahim Taalab
 
-### Backend Engineer | .NET Core Specialist
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%F0%9F%9A%80;.NET+Core+Specialist+%F0%9F%92%BB;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/if0x/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Taalab/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimTaala6@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/if0x/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Taalab/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.facebook.com/XibrahimX9/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/s_4t2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ibrahimTaala6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-📍 Cairo, Egypt | 🎓 Information Systems Graduate | 🏆 1st Place ITI Award Winner
+<img src="https://komarev.com/ghpvc/?username=IF0XY&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="profile views" />
+
+📍 Cairo, Egypt | 🎓 BS in Information Systems | 🏆 1st Place ITI Winner
+
+</div>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🚀 About Me
+
+- 💼 **Backend Engineer** specializing in **ASP.NET Core**
+- 🏗️ Passionate about **Clean Architecture** & **Design Patterns**
+- 🎯 Building **scalable**, **maintainable** enterprise solutions
+- 🌱 Currently exploring **Microservices** & **Docker**
+- 💡 Love solving complex problems on **LeetCode**
+- 📫 Reach me: **ibrahimTaala6@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎯 Core Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,redis,docker,git,postman,azure" />
+</p>
+
+### 🛠️ Tools & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,jquery,bootstrap,html,css,python,java,cpp,linux" />
+</p>
+
+### ⚡ Expertise
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+<br><b>C# & .NET</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
+<br><b>SQL Server</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+<br><b>Docker</b>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+<br><b>Git & GitHub</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 💫 About Me
+## 🎨 Featured Projects
 
-Passionate Backend Engineer focused on crafting scalable, maintainable systems with **ASP.NET Core**. I leverage **Clean Architecture** and modern design patterns to build enterprise-grade applications.
-
-```csharp
-public class Developer
-{
-    public string Name => "Ibrahim Taalab";
-    public string[] Skills => new[] { "ASP.NET Core", "Clean Architecture", "Problem Solving" };
-    public string CurrentGoal => "Building Production-Ready APIs";
-}
-```
-
----
-
-### 🔧 Technology Arsenal
-
-**Backend Development**
-
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Database**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-**Frontend & Design**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Familiar With**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🎯 Featured Projects
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+  
+### 🛒 [E-Commerce API (Talabat)](https://github.com/IF0XY/E-Commerce-API)
 
-#### 🛒 [E-Commerce API](https://github.com/IF0XY/E-Commerce-API)
-Full-featured REST API with authentication, product management, basket, and orders.
+Full-featured REST API for online shopping platform
 
-**Stack:** `.NET Core` `EF Core` `Clean Architecture`
+**✨ Features:**
+- 🔐 JWT Authentication & Authorization
+- 📦 Product Management with Filtering
+- 🛍️ Shopping Basket & Orders
+- 👨‍💼 Admin Dashboard
+
+**🔧 Tech:**
+```
+.NET Core | EF Core | SQL Server
+Clean Architecture | Repository Pattern
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 💼 [HR & Payroll System](https://hr-management.tryasp.net/)
-Complete HR management with payroll, attendance & reporting.
+### 💼 [HR & Payroll System](https://hr-management.tryasp.net/)
 
-**Stack:** `ASP.NET MVC` `SQL Server` **→ [Live Demo](https://hr-management.tryasp.net/)**
+Complete HR management solution
+
+**✨ Features:**
+- 👥 Employee Management
+- 💰 Payroll Processing
+- 📊 Attendance Tracking
+- 📈 Advanced Reporting
+
+**🔧 Tech:**
+```
+ASP.NET MVC | Razor | EF Core
+N-Tier Architecture | SQL Server
+```
+
+**🔗 [Live Demo →](https://hr-management.tryasp.net/)**
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 💪 [Gym Management](https://github.com/IF0XY/Gym-Management-System)
-Member & coach management, sessions, packages & attendance.
+### 💪 [Gym Management System](https://github.com/IF0XY/Gym-Management-System)
 
-**Stack:** `ASP.NET MVC` `Identity` `Repository Pattern`
+Gym administration platform
+
+**✨ Features:**
+- 🏃 Member & Coach Management
+- 📅 Session Scheduling
+- 💳 Package Subscriptions
+- ✅ Attendance System
+
+**🔧 Tech:**
+```
+ASP.NET MVC | Identity
+Repository Pattern | EF Core
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 👥 [Employee Management](https://github.com/IF0XY/Employees-Management-System)
-CRUD system for employees & departments with search.
+### 👥 [Employee Management](https://github.com/IF0XY/Employees-Management-System)
 
-**Stack:** `ASP.NET MVC` `EF Core` `Unit of Work`
+CRUD system for organizations
+
+**✨ Features:**
+- 🔍 Advanced Search
+- ✏️ Create, Edit, Delete Records
+- 🏢 Department Management
+- 🎨 Intuitive UI
+
+**🔧 Tech:**
+```
+ASP.NET MVC | Razor Views
+Unit of Work | EF Core
+```
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-### 📈 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IF0XY&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=IF0XY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=c9d1d9" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 🎓 Education & Certifications
+## 🏆 Achievements & Certifications
 
-- 🎯 **ASP.NET Diploma** - Route (2025)
-- 💻 **Full Stack .NET Development** - ITI (2024) - 🏆 **1st Place Team**
-- 📜 **ICDL Certificate** - Atec Academy
-- 🎓 **BS in Information Systems** - Obour Institute (GPA: 3.5)
+<div align="center">
+
+| 🎯 Achievement | 📅 Year | 🏢 Institution |
+|:---------------|:--------|:---------------|
+| 🥇 **1st Place Team Award** | 2024 | ITI - Full Stack .NET |
+| 🎓 **ASP.NET Diploma** | 2025 | Route Academy |
+| 💻 **Full Stack Web Development** | 2024 | Information Technology Institute |
+| 📜 **ICDL Certificate** | - | Atec Academy |
+| 🎓 **BS in Information Systems** | 2025 | Obour Institute (GPA: 3.5) |
+
+</div>
 
 ---
 
-### 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-`Microservices Architecture` · `Docker Containerization` · `Advanced Design Patterns` · `Cloud Services`
+<div align="center">
+
+```mermaid
+graph LR
+    A[Microservices Architecture] --> B[Docker & Kubernetes]
+    B --> C[Cloud Services - Azure]
+    C --> D[Advanced Design Patterns]
+    D --> E[Message Queues - RabbitMQ]
+```
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IF0XY&theme=tokyonight" alt="Profile Summary" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+## 💬 Random Dev Quote
 
-**Open for collaboration & opportunities!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/if0x/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Taalab/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ibrahimTaala6@gmail.com)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-*"First, solve the problem. Then, write the code."* - John Johnson
+### 🤝 Let's Build Something Amazing Together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=IF0XY&color=58A6FF&style=flat)
+<p>
+<img src="https://img.shields.io/badge/-Open%20For%20Opportunities-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/-Available%20For%20Collaboration-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+**⭐ Don't forget to star my repositories if you find them useful!**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
