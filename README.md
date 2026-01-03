@@ -6,9 +6,9 @@
 
 *Building robust, scalable systems with ASP.NET Core*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/if0x/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IF0XY)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Taalab/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimTaala6@gmail.com)
 
 📍 Cairo, Egypt | 🎓 BS in Information Systems (GPA: 3.5)
@@ -73,7 +73,7 @@ var ibrahim = new BackendEngineer
 
 ## 🚀 Featured Projects
 
-### 🛒 [Talabat Web APIs + Admin Dashboard](https://github.com/YOUR_USERNAME/talabat-apis)
+### 🛒 [Talabat Web APIs + Admin Dashboard](https://github.com/IF0XY/E-Commerce-API)
 > E-commerce platform with comprehensive REST APIs
 
 **Features:** User authentication, product catalog with advanced filtering, shopping basket, order management, admin dashboard
@@ -93,7 +93,7 @@ var ibrahim = new BackendEngineer
 
 ---
 
-### 💪 [Gym Management System](https://github.com/YOUR_USERNAME/gym-management)
+### 💪 [Gym Management System](https://github.com/IF0XY/Gym-Management-System)
 > Comprehensive gym administration platform
 
 **Features:** Member & coach management, session scheduling, package subscriptions, attendance tracking
@@ -102,7 +102,7 @@ var ibrahim = new BackendEngineer
 
 ---
 
-### 🎮 [RG Store - CD Keys Games Store](https://github.com/YOUR_USERNAME/rg-store)
+### 🎮 [RG Store - CD Keys Games Store](https://github.com/MohamedMousad/RG_Store)
 > Digital game store with user authentication
 
 **Features:** Product browsing, shopping cart, favorites list, user dashboard, password reset
@@ -111,7 +111,7 @@ var ibrahim = new BackendEngineer
 
 ---
 
-### 👥 [Employees Management System](https://github.com/YOUR_USERNAME/employee-management)
+### 👥 [Employees Management System](https://github.com/IF0XY/Employees-Management-System)
 > CRUD application for employee and department management
 
 **Features:** Search, create, edit, and delete employee/department records with intuitive UI
@@ -145,9 +145,9 @@ var ibrahim = new BackendEngineer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -158,8 +158,8 @@ var ibrahim = new BackendEngineer
 I'm always interested in collaborating on interesting projects or discussing backend architecture and .NET best practices!
 
 - 📧 Email: ibrahimTaala6@gmail.com
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🏆 LeetCode: [Check my solutions](YOUR_LEETCODE_URL)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/if0x/)
+- 🏆 LeetCode: [Check my solutions](https://leetcode.com/u/Taalab/)
 - 📱 Phone: (+2) 01029780971
 
 ---
@@ -168,6 +168,6 @@ I'm always interested in collaborating on interesting projects or discussing bac
 
 **"Clean code always looks like it was written by someone who cares."** - Robert C. Martin
 
-⭐️ From [Ibrahim Ahmed Taalab](https://github.com/YOUR_USERNAME)
+⭐️ From [Ibrahim Ahmed Taalab](https://github.com/IF0XY)
 
 </div>
