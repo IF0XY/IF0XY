@@ -186,18 +186,43 @@ Unit of Work | EF Core
 
 <div align="center">
 
-<a href="https://github.com/IF0XY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=default&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
+</picture>
 
-<a href="https://github.com/IF0XY">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IF0XY&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=default&hide_border=true&langs_count=8"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</picture>
 
-<a href="https://github.com/IF0XY">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IF0XY&theme=tokyonight" alt="Profile Summary" />
-</a>
+<br/><br/>
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=IF0XY&theme=dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=IF0XY&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://streak-stats.demolab.com?user=IF0XY&theme=dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -235,11 +260,11 @@ graph LR
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IF0XY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=c9d1d9)](https://github.com/IF0XY)
+[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IF0XY&bg_color=0d1117&color=00D9FF&line=00D9FF&point=c9d1d9&area=true&hide_border=true)](https://github.com/IF0XY)
 
 </div>
 
@@ -249,7 +274,7 @@ graph LR
 
 ## 💬 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=00D9FF)
 
 ---
 
