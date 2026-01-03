@@ -185,14 +185,19 @@ Unit of Work | EF Core
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IF0XY&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<a href="https://github.com/IF0XY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IF0XY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IF0XY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/IF0XY">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IF0XY&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</a>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=IF0XY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=c9d1d9" alt="Activity Graph" />
+<a href="https://github.com/IF0XY">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IF0XY&theme=tokyonight" alt="Profile Summary" />
+</a>
 
 </div>
 
@@ -230,14 +235,11 @@ graph LR
 
 ---
 
-## 📈 Coding Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IF0XY&theme=tokyonight" alt="Profile Summary" />
+[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IF0XY&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=c9d1d9)](https://github.com/IF0XY)
 
 </div>
 
